@@ -20,7 +20,7 @@ __2.__ `scripts.py`
 __3.__ `utils.py`
 - Helper functions
 
-__4.__ `testa/test.py`
+__4.__ `tests/test.py`
 - Running aside cases (testing)
 
 ## Solution
