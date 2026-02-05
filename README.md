@@ -20,6 +20,9 @@ __2.__ `scripts.py`
 __3.__ `utils.py`
 - Helper functions
 
+__4.__ `testa/test.py`
+- Running aside cases (testing)
+
 ## Solution
 ### The code evaluates two mixed-orientation layouts and selects the best result, where ...
 1. __Base Grid Placement__
